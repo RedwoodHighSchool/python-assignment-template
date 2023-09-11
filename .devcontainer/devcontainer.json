@@ -7,15 +7,6 @@
 	"features": {
 		"ghcr.io/devcontainers/features/python:1": {
 			"installTools": true,
-			"version": "os-provided"
-		},
-		"ghcr.io/devcontainers-contrib/features/black:2": {
-			"version": "latest"
-		},
-		"ghcr.io/devcontainers-contrib/features/coverage-py:2": {
-			"version": "latest"
-		},
-		"ghcr.io/devcontainers-contrib/features/pylint:2": {
 			"version": "latest"
 		}
 	},
